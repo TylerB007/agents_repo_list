@@ -1,3 +1,5 @@
+# ALL OF THESE MUST FIRST BE FULLY AUDITED AND THEN ADAPTED TO PROJECT
+
 # AI Agent Core Skills
 
 - **Context Management (Managing token limits and relevance)**
